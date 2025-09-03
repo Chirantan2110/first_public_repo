@@ -1,3 +1,5 @@
 # first_public_repo
-This is my first public git repository. 
+This is my first public git repository.
+<br>
 Author-Chirantan Manna
+</br>
